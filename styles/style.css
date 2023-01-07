@@ -130,7 +130,7 @@
   }
   .watch {
     background-image: url(../images/watch.png) ,
-    linear-gradient(to right, #0983e9, white);
+    linear-gradient(to right, #180bd9, white);
     /*linear-gradient (to right, #0983e9, white);*/
     background-position: center, center;
     background-repeat: no-repeat, no-repeat;
